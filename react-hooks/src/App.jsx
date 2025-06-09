@@ -1,12 +1,12 @@
 
 import './App.css'
-import { StateExample } from './hooks/use-state'
+import { ContextExample } from './hooks/use-context'
 
 function App() {
 
   return (
     <>
-      <StateExample />
+      <ContextExample />
     </>
   )
 }
