@@ -1,12 +1,12 @@
 
 import './App.css'
-import { ContextExample } from './hooks/use-context'
+import { SyncExternalStoreExample } from './hooks/use-sync-external-store'
 
 function App() {
 
   return (
     <>
-      <ContextExample />
+      <SyncExternalStoreExample />
     </>
   )
 }
